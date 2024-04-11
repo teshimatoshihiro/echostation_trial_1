@@ -1,0 +1,1 @@
+<img src="{{ asset('images/icon.png') }}" alt="us_projectのicon" width="50" height="50">
